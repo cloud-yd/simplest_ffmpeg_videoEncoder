@@ -1,0 +1,11 @@
+﻿  simplest_ffmpeg_videoEncoder.cpp
+f:\vs2017\workspace\simplest_ffmpeg_videoencoder\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(199): warning C4477: “printf”: 格式字符串“%164d”需要类型“int”的参数，但可变参数 1 拥有了类型“int64_t”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(199): note: 请考虑在格式字符串中使用“%lld”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(199): note: 请考虑在格式字符串中使用“%Id”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(199): note: 请考虑在格式字符串中使用“%I64d”
+f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(216): warning C4477: “printf”: 格式字符串“%164d”需要类型“int”的参数，但可变参数 1 拥有了类型“int64_t”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(216): note: 请考虑在格式字符串中使用“%lld”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(216): note: 请考虑在格式字符串中使用“%Id”
+  f:\vs2017\workspace\simplest_ffmpeg_videoencoder\simplest_ffmpeg_videoencoder.cpp(216): note: 请考虑在格式字符串中使用“%I64d”
+  simplest_ffmpeg_videoEncoder.vcxproj -> F:\VS2017\workspace\x64\Debug\simplest_ffmpeg_videoEncoder.exe
