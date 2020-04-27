@@ -236,7 +236,7 @@ int main(int argc, char **argv)
 *	filename = argv[1];
 *	codec_name = argv[2];
 */
-	//""
+
 	filename_input = "E:\\opencv_material\\akiyo_cif.yuv";
 	filename_output = "test.h264";
 	codec_name = "libx264";
@@ -279,7 +279,7 @@ int main(int argc, char **argv)
 	 * will always be I frame irrespective to gop_size
 	 */
 	c->gop_size = 10;
-	c->max_b_frames = 1; //每秒25帧
+	c->max_b_frames = 1; 
 	c->pix_fmt = AV_PIX_FMT_YUV420P;
 
 	if (codec->id == AV_CODEC_ID_H264)
